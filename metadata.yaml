@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '8712'
     url: http://www.gutenberg.org/2009/agents/8712
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16130#Judgments-of-the-Court-of-Appeal-of-New-Zealand-on-Proceedings-to-Review-Aspects-of-the-Repor_
 gutenberg_bookshelf: New Zealand
 gutenberg_issued: '2005-06-25'
 gutenberg_type: Text
